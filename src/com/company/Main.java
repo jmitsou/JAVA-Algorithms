@@ -8,6 +8,7 @@ public class Main {
 	// write your code here
 
         int[] test = {1, 2, 10, 50, 5};
+        int[] boomTest = {9, 5, 9, 5, 1, 1, 1};
 
         How_Many_Vowels.vowelCount("tutorial");
         Reverse_the_Number.reverseNumber(5678);
@@ -18,5 +19,6 @@ public class Main {
         Difference_of_Max_an_Min.differenceMaxMin(test);
         Double_Letters.double_Again("Jeff");
         ClassCode_WarmUp.getCount("Odin");
+        Number_of_Boomerangs.countBoomerangs(boomTest);
     }
 }
