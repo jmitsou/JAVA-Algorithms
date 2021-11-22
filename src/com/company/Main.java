@@ -10,6 +10,7 @@ import com.company.warmup_11_1.Array_of_Multiples;
 import com.company.warmup_11_1.Janken;
 import com.company.warmup_11_15.ClassCode_WarmUp;
 import com.company.warmup_11_15.Number_of_Boomerangs;
+import com.company.warmup_11_22.NumOfDigitsInNum;
 
 public class Main {
 
@@ -29,5 +30,6 @@ public class Main {
         Double_Letters.double_Again("Jeff");
         ClassCode_WarmUp.getCount("Odin");
         Number_of_Boomerangs.countBoomerangs(boomTest);
+        NumOfDigitsInNum.numOfDigits(888888885);
     }
 }
