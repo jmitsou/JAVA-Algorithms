@@ -1,4 +1,4 @@
-package com.company;
+package com.company.warmup_10_26;
 
 public class Video_Length {
 

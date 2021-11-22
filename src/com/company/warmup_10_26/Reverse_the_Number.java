@@ -1,4 +1,4 @@
-package com.company;
+package com.company.warmup_10_26;
 
 public class Reverse_the_Number {
  //Create a function that takes an integer n and reverses it.

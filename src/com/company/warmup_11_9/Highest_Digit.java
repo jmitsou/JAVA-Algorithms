@@ -1,4 +1,4 @@
-package com.company;
+package com.company.warmup_11_9;
 
 public class Highest_Digit {
 

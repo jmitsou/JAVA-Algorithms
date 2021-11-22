@@ -1,4 +1,4 @@
-package com.company;
+package com.company.warmup_11_15;
 
 public class ClassCode_WarmUp {
 

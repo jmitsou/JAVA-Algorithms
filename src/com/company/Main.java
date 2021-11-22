@@ -1,6 +1,15 @@
 package com.company;
 
-import java.util.Arrays;
+import com.company.warmup_10_26.How_Many_Vowels;
+import com.company.warmup_10_26.Reverse_the_Number;
+import com.company.warmup_10_26.Video_Length;
+import com.company.warmup_10_28.Difference_of_Max_an_Min;
+import com.company.warmup_10_28.Double_Letters;
+import com.company.warmup_10_28.Sort_Nums;
+import com.company.warmup_11_1.Array_of_Multiples;
+import com.company.warmup_11_1.Janken;
+import com.company.warmup_11_15.ClassCode_WarmUp;
+import com.company.warmup_11_15.Number_of_Boomerangs;
 
 public class Main {
 
